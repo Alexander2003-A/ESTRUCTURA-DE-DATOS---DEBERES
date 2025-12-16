@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Aprendiendo HTML\bin\Debug\net10.0\Aprendiendo HTML.exe
+C:\Users\user\Documents\Aprendiendo HTML\bin\Debug\net10.0\Aprendiendo HTML.deps.json
+C:\Users\user\Documents\Aprendiendo HTML\bin\Debug\net10.0\Aprendiendo HTML.runtimeconfig.json
+C:\Users\user\Documents\Aprendiendo HTML\bin\Debug\net10.0\Aprendiendo HTML.dll
+C:\Users\user\Documents\Aprendiendo HTML\bin\Debug\net10.0\Aprendiendo HTML.pdb
+C:\Users\user\Documents\Aprendiendo HTML\obj\Debug\net10.0\Aprendiendo HTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Aprendiendo HTML\obj\Debug\net10.0\Aprendiendo HTML.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Aprendiendo HTML\obj\Debug\net10.0\Aprendiendo HTML.AssemblyInfo.cs
+C:\Users\user\Documents\Aprendiendo HTML\obj\Debug\net10.0\Aprendiendo HTML.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Aprendiendo HTML\obj\Debug\net10.0\Aprendiendo HTML.dll
+C:\Users\user\Documents\Aprendiendo HTML\obj\Debug\net10.0\refint\Aprendiendo HTML.dll
+C:\Users\user\Documents\Aprendiendo HTML\obj\Debug\net10.0\Aprendiendo HTML.pdb
+C:\Users\user\Documents\Aprendiendo HTML\obj\Debug\net10.0\Aprendiendo HTML.genruntimeconfig.cache
+C:\Users\user\Documents\Aprendiendo HTML\obj\Debug\net10.0\ref\Aprendiendo HTML.dll
